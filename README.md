@@ -6,9 +6,9 @@ https://discord.gg/PHBX53jcSn
 
 ## DEPENDENCIES
 
-[qb-core](https://github.com/qbcore-framework/qb-core)
-[qb-admin](https://github.com/qbcore-framework/qb-adminmenu)
+* [qb-core](https://github.com/qbcore-framework/qb-core)
+* [qb-admin](https://github.com/qbcore-framework/qb-adminmenu)
 
 ## IMPORTANT
 
-Don't forget to edit **config.lua**
+- Don't forget to edit **config.lua**
